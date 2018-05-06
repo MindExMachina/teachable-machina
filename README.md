@@ -10,7 +10,7 @@ On the browser, this project uses an adapted version of Google's [Teachable Mach
 
 You can configure Teachable Machina using [config.js](src/config.js).
 
-## Development
+## Usage
 
 #### Connect to the robot with [Machina Bridge](Machina-Bridge_v0.1.0)
 
@@ -34,6 +34,8 @@ yarn build
 ```
 yarn run watch
 ```
+
+## Development
 
 #### Code Styles
 - There’s a pre-commit hook set up that will prevent commits when there are errors
