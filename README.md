@@ -12,6 +12,14 @@ You can configure Teachable Machina using [config.js](src/config.js).
 
 ## Development
 
+#### Connect to the robot with [Machina Bridge](Machina-Bridge_v0.1.0)
+
+- Execute `Machina-Bridge_v0.1.0/MachinaBridge.exe`.
+- Choose the make of your robot (e.g., UR).
+- Write the local IP of your robot (e.g., 192.168.0.172).
+- Click `Connect`.
+- (The Machina Bridge app should be now connected to the robot.)
+
 #### Install dependencies by running (similar to `npm install`)
 ```
 yarn
